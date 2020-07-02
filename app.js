@@ -8,7 +8,7 @@ axios({
     "headers":{
     "content-type":"application/octet-stream",
     "x-rapidapi-host":"thefork.p.rapidapi.com",
-    "x-rapidapi-key":process.env.X_RapidAPI_Key,
+    "x-rapidapi-key":process.env.THE_FORK_API_KEY,
     "useQueryString":true
     },"params":{
     "pageNumber":"1",
